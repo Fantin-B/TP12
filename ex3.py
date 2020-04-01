@@ -5,12 +5,6 @@ def pow(x,n):
 
 
 
-
-
-
-
-
-
 print(pow(42, 0)) # 1
 print(pow(1, 10)) # 1
 print(pow(2, 5)) # 32
