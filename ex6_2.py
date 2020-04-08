@@ -2,7 +2,6 @@ import turtle
 
 
 def drawCurveFinal(turtle, l, n):
-    turtle.setup(1000, 600)
 
     if n == 1:
         turtle.forward(l/3)
@@ -26,5 +25,5 @@ def drawCurveFinal(turtle, l, n):
 
 
 
-drawCurveFinal(turtle, 50,3)
-turtle.exitonclick()
+#drawCurveFinal(turtle, 50,2)
+#turtle.exitonclick()
