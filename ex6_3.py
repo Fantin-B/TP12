@@ -11,6 +11,5 @@ def drawFullCurve(turtle, l, n):
     turtle.right(120)
 
 
-
 drawFullCurve(turtle, 50,1)
 turtle.exitonclick()
